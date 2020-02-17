@@ -12,6 +12,6 @@ def link
 end
 
 def any_phrase 
-  $status = 
+  status = 
   puts $phrase 
 end
