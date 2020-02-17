@@ -12,7 +12,5 @@ def link
 end
 
 def any_phrase 
-  puts phrase 
-  
-any_phrase(phrase)
+  puts $phrase 
 end
