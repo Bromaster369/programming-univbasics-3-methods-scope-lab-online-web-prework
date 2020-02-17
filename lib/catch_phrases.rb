@@ -9,3 +9,4 @@ end
 
 def link 
   puts $phrase 
+end
