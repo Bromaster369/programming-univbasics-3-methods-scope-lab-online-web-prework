@@ -12,7 +12,7 @@ def link
 end
 
 def any_phrase(phrase)
-  puts phrase
+  puts any_phrase
   
   
 end
