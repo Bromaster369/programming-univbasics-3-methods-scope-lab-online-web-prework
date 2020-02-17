@@ -12,7 +12,7 @@ def link
 end
 
 def any_phrase
-  puts any_phrase
+  puts "Do A Barrel Roll!"
   
   $phrase
 end
