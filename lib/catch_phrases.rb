@@ -13,4 +13,6 @@ end
 
 def any_phrase 
   puts phrase 
+  
+  phrase
 end
